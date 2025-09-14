@@ -118,4 +118,3 @@ Conclusion:
 This comparative study highlights the critical role that prompt engineering plays in AI interaction. More refined and detailed prompts consistently produce better, richer, and more useful outputs. As generative AI tools become more prevalent, users must learn how to communicate effectively with these systems to harness their full capabilities.
 
 
-
